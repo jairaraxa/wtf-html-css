@@ -1,7 +1,9 @@
-name:          "WTF, HTML and CSS?"
+name:          "WTF, HTML e CSS?"
 url:           http://wtfhtmlcss.com
-repo:          https://github.com/mdo/wtf-html-css
+repo:          https://github.com/webfatorial/wtf-html-css
 twitter:       https://twitter.com/mdo
+
+webfatorial_link: http://webfatorial.com/
 
 markdown:      redcarpet
 permalink:     pretty
